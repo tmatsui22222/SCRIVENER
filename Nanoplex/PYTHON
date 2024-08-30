@@ -1,0 +1,14 @@
+FILENAME                                        LOC (%)
+------------------------------------------------------------------
+./analysis/tertiary.py                        : 674 (23.01%)
+./nanoplex.py                                 : 579 (19.77%)
+./analysis/secondary.py                       : 320 (10.93%)
+./scripts/generate_mapping_stats_plots.py     : 272 (9.29%)
+./utils/__init__.py                           : 262 (8.95%)
+./apps/plots_viewer.py                        : 239 (8.16%)
+./scripts/aggregate_tertiary_outputs.py       : 188 (6.42%)
+./scripts/generate_in_silico_plasmids_reads.py: 185 (6.32%)
+./analysis/primary.py                         : 164 (5.60%)
+./scripts/consolidate_coverage_plots.py       : 46 (1.57%)
+------------------------------------------------------------------
+TOTAL LOC                                     : 2929 (100%)
