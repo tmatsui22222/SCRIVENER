@@ -266,4 +266,4 @@ Install these dependencies using appropriate package managers. (See the `./insta
 
 ## Raw sequence data
 
-Raw sequence data for this study can be found on Sequence Read Archive (SRA BioProject PRJNA1150152) 
+Raw sequence data for this study can be found on Sequence Read Archive (SRA BioProject PRJNA1198116) 
